@@ -1,0 +1,405 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.home {
+    background-color: rgb(47, 46, 46);
+}
+
+.banner_one {
+    height: 700px;
+    background-image: url("netflix 1.jpg");
+    background-size: auto;
+}
+
+.banner_one .logo .netflix {
+    position: absolute;
+    left: 180px;
+    top: 20px;
+    height: 40px;
+    width: 148px;
+}
+
+.banner_one .logo .signin {
+    position: absolute;
+    right: 180px;
+    top: 20px;
+    padding-left: 20px;
+}
+
+.language {
+    height: 32px;
+    width: 122.4px;
+    background-color: rgba(117, 113, 113, 0);
+    color: white;
+    border-radius: 8px;
+}
+
+.signinbutton {
+    height: 32px;
+    width: 75.99px;
+    background-color: red;
+    border-radius: 8px;
+}
+.banner_one .extra {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.banner_one .content .text1 {
+    position: absolute;
+    top: 250px;
+    left: 240px;
+    font-size: 40px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+.banner_one .content h2 {
+    position: absolute;
+    top: 330px;
+    left: 470px;
+    font-size: 24px;
+    margin: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 350;
+}
+
+.banner_one .content h3 {
+    position: absolute;
+    top: 400px;
+    left: 340px;
+    font-size: 20px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+.banner_one .content .email {
+    position: absolute;
+    top: 450px;
+    left: 390px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.email {
+    height: 55px;
+    width: 370px;
+    background-color: rgba(117, 113, 113, 0);
+    border-radius: 8px;
+    color: white;
+}
+
+.banner_one .content .get {
+    position: absolute;
+    top: 450px;
+    left: 770px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.get {
+    height: 60px;
+    width: 207px;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+}
+
+.banner_two {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-size: contain;
+    margin-top: 8px;
+}
+
+.banner_two .liveimg2 {
+    position: absolute;
+    left: 50%;
+}
+
+.banner_two h1 {
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+.text2 {
+    height: 62px;
+    width: 475px;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+.banner_two p {
+    position: relative;
+    top: 180px;
+    left: 150px;   
+}
+
+.para2 {
+    height: 92px;
+    width: 475px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.banner_three {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-size: contain;
+    margin-top: 8px;
+}
+
+.banner_three .liveimg3 {
+    height: 356px;
+    width: 475px;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+
+.banner_three h1 {
+    position: relative;
+    left: 750px;
+    bottom: 200px;
+}
+
+#text3 {
+    height: 185px;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.banner_three p {
+    position: relative;
+    left: 750px;
+    bottom: 220px;
+}
+#para3 {
+    height: 92px;
+    width: 475px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.banner_four {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-size: contain;
+    margin-top: 8px;
+}
+
+.banner_four .liveimg4 {
+    position: absolute;
+    left: 50%;
+}
+
+.banner_four h1 {
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+#text4 {
+    height: 62px;
+    width: 550px;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+.banner_four p {
+    position: relative;
+    top: 180px;
+    left: 150px;
+}
+
+#para4 {
+    height: 92px;
+    width: 475px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.banner_five {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-size: contain;
+    margin-top: 8px;
+}
+
+.banner_five .liveimg5 {
+    height: 356px;
+    width: 475px;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+
+.banner_five h1 {
+    position: relative;
+    left: 750px;
+    bottom: 200px;
+}
+
+#text5 {
+    height: 185px;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.banner_five p {
+    position: relative;
+    left: 750px;
+    bottom: 220px;
+}
+
+#para5 {
+    height: 92px;
+    width: 475px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.banner_six {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: black;
+    background-size: contain;
+    margin-top: 8px;
+}
+
+.banner_six .faq {
+    position: relative;
+    text-align: center;
+    top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text6 {
+    height: 65px;
+    width: 80%;
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+
+.banner_six .faq .question {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.que1 i {
+    margin-left: 95%;
+    text-align: center;
+}
+
+.que1 {
+    height: 84px;
+    width: 80%;
+    background-color: rgba(117, 115, 115, 0.4);
+    margin-top: 5px;
+    text-align: start;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.banner_six .faq form {
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+form .get {
+    font-size: 25px;
+}
+
+.banner_seven {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-size: contain;
+    margin-top: 8px;
+    
+}
+
+.banner_seven .contact h3,a {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+
+.banner_seven .footer {
+    height: 270px;
+    width: 1060px;
+    position: relative;
+    top: 100px;
+    left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner_seven .tags {
+    height: 137px;
+    width: 975px;
+    display: grid;
+    grid-template-rows:  40px 40px 40px 40px;
+    grid-template-columns: 300px 300px 300px 300px;
+}
+
+.tags a {
+    padding: 10px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.banner_seven .end,.signin {
+    position: relative;
+    top: 80px;
+}
+.banner_seven .end {
+    padding-top: 20px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.que1:hover {
+    background-color: red;
+    cursor:grab;
+}
+
+.banner_six .que1:active {
+    transition: 0ms;
+}
+
+.ans1 {
+    height: 0px;
+    width: 80%;
+    opacity: 0;
+}
+
+.que1 .ans1 {
+    opacity: 1;
+}
+
+
